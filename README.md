@@ -6,6 +6,7 @@
   - 任意銘柄のATR(Average True Range)を計算し、出力します。
 
 ##Requirement
+- Python2.7
 * Numpy
   - `pip install numpy`
 * BeautifulSoup4
